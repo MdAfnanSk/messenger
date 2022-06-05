@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.firts{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.top img{
+    width: 180px;
+}
+
+.text img{
+    width: 270px;
+    margin-top: -5px;
+    box-shadow: inset -3px -3px 7px #ffffffb0, inset 3px 3px 5px rgba(94, 104, 121, 0.692);
+    border-radius: 5px;
+	background: #eff0f1;
+	border-radius: 10px;
+	box-shadow: -3px -3px 7px #ffffffa6, 3px 3px 5px rgba(94, 104, 121, 0.712);
+    
+}
+.neumorphism-2 {
+	margin: 50px;
+	height: 250px;
+	width: 250px;
+	
+	
+	
+}
